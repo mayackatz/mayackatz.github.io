@@ -28,7 +28,7 @@ body {
 
 div.home-container {
     background: url(sando.png) center center no-repeat;
-    background-size: 75%; /* Adjust the size */
+    background-size: 90%; /* Adjust the size */
     background-position: center;
     background-color: rgb(76, 103, 138);
 }
