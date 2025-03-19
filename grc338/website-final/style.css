@@ -168,7 +168,7 @@ p.address {
     font-weight: 600;
     padding: 0.5rem;
     padding-bottom: 2em;
-    padding-left: 5em;
+    margin-left: 4em
 }
 
 
@@ -212,6 +212,5 @@ footer p {
     font-weight: 600;
     padding: 0.5rem;
     padding-bottom: 2em;
-    padding-left: 1.5em;
-}
+    margin-left: 4em
 }
