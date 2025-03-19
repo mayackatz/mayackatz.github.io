@@ -202,4 +202,16 @@ footer p {
         grid-template-columns: 1fr 1fr;
         grid-gap: 2em 7em;
     }
+    p.address { 
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    color: rgb(215, 161, 117);
+    line-height: 1.4em;
+    max-width: 30em;
+    font-weight: 600;
+    padding: 0.5rem;
+    padding-bottom: 2em;
+    padding-left: 1.5em;
+}
 }
