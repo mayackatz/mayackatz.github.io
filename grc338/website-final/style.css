@@ -159,7 +159,6 @@ address {
 }
 
 p.address { 
-    position: fixed;
     bottom: 1rem;
     left: 1rem;
     color: rgb(215, 161, 117);
